@@ -127,5 +127,5 @@ Werkzeug==2.0.3
 whitenoise==6.0.0
 widgetsnbextension==3.6.0
 yarl==1.7.2
-python==3.9.7
+
 
