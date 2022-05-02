@@ -55,8 +55,8 @@ jsonschema==4.4.0
 kiwisolver==1.4.2
 lxml==4.8.0
 MarkupSafe==2.1.1
-matplotlib==3.5.1
-matplotlib-inline==0.1.3
+# matplotlib==3.5.1
+# matplotlib-inline==0.1.3
 mistune==0.8.4
 mpmath==1.2.1
 multidict==6.0.2
@@ -65,12 +65,12 @@ nbclient==0.5.13
 nbconvert==6.4.4
 nbformat==5.2.0
 nest-asyncio==1.5.4
-notebook==6.4.10
-notebook-shim==0.1.0
-numpy==1.22.3
+# notebook==6.4.10
+# notebook-shim==0.1.0
+# numpy==1.22.3
 packaging==21.3
-pandas==1.4.1
-pandocfilters==1.5.0
+# pandas==1.4.1
+# pandocfilters==1.5.0
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
@@ -108,8 +108,8 @@ sniffio==1.2.0
 soupsieve==2.3.1
 sqlparse==0.4.2
 stack-data==0.2.0
-sympy==1.10.1
-tabulate==0.8.9
+# sympy==1.10.1
+# tabulate==0.8.9
 # TBB==0.2
 terminado==0.13.3
 testpath==0.6.0
