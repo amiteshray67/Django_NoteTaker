@@ -86,7 +86,11 @@ WSGI_APPLICATION = 'smartnotes.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'NAME': 'd19h07j0vledr2',
+        'USER': 'qrxfatuwozslly',
+        'PASSWORD': 'd7a51175bea380ecbda730e7281557da521670250d54f684d70c5e7bccd42a9e',
+        'HOST': 'ec2-44-194-117-205.compute-1.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
