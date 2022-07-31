@@ -1,3 +1,3 @@
-web: gunicorn notetaker.wsgi:application --log-file - --log-level debug
+web: gunicorn smartnotes:application --log-file - --log-level debug
 python manage.py collectstatic --noinput
 manage.py migrate
